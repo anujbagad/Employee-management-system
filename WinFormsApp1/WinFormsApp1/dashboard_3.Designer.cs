@@ -238,6 +238,7 @@
             label4.Size = new Size(20, 23);
             label4.TabIndex = 1;
             label4.Text = "X";
+            label4.Click += label4_Click_1;
             // 
             // label2
             // 

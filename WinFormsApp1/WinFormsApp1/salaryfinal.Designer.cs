@@ -230,6 +230,7 @@
             // exit
             // 
             exit.AutoSize = true;
+            exit.Cursor = Cursors.Hand;
             exit.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
             exit.ForeColor = Color.White;
             exit.Location = new Point(847, 7);
@@ -298,6 +299,7 @@
             // salary_signout
             // 
             salary_signout.AutoSize = true;
+            salary_signout.Cursor = Cursors.Hand;
             salary_signout.Font = new Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point);
             salary_signout.ForeColor = Color.White;
             salary_signout.Location = new Point(52, 564);
